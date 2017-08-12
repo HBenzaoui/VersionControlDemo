@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Version Control Demo</string>
+    <string name="txtVW">Hello Hamza!</string>
 </resources>
