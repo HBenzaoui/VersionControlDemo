@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         String user = "hamza";
 
         //Facebook is awsome!
+
+        // Actually it's not that good!
     }
 
 }
